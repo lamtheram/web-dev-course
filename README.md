@@ -3,3 +3,4 @@ In this repository, you will find the work of the Rebel Academy students who fol
 
 Course participants:
 - Joppe: project facilitator Activist Handbook
+- Liam: one of the trainers of the Web development course
